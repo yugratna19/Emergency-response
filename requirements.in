@@ -1,0 +1,6 @@
+pyarrow
+pandas[performance, parquet, aws]
+pendulum
+inference-sdk
+inference
+python-dotenv
