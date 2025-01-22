@@ -7,6 +7,11 @@ This project focuses on detecting and classifying violent activities in real-tim
 - Accurately classify frames from real-time video streams into violent or non-violent categories.
 - Detect specific violent actions and objects in the scene using YOLOv8.
 - Optimize system performance to achieve real-time processing speeds.
+
+## Demo
+
+[![Watch the video](https://img.youtube.com/vi/1r1BKatiC9c/sddefault.jpg)](https://www.youtube.com/watch?v=1r1BKatiC9c)
+
 ## Contributors
 - Aarogya Bhandari
 - Girban Adhikari
