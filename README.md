@@ -13,10 +13,11 @@ This project focuses on detecting and classifying violent activities in real-tim
 [![Watch the video](https://img.youtube.com/vi/1r1BKatiC9c/sddefault.jpg)](https://www.youtube.com/watch?v=1r1BKatiC9c)
 
 ## Contributors
-- Aarogya Bhandari
-- Girban Adhikari
-- Jivan Acharya
 - Yugratna Humagain
+- [@Aarogya Bhandari](https://github.com/amewzzz)
+- [@Girban Adhikari](https://github.com/adgirban)
+- [@Jivan Acharya](https://github.com/JivanAcharya)
+- [@Yugratna Humagain](https://github.com/yugratna19)
 ## Project Architecture
 ![Project Architecture](img/architecture.png)
 
